@@ -34,6 +34,6 @@ mybatis-plus:
 oss:
   #  配置地域节点Endpoint
   endpoint: oss-cn-beijing.aliyuncs.com
-  accessKeyId: LTAI5tAfgoTMHrur4t4GA718
-  accessKeySecret: t84pwsgBUBthJr5XCcjm0CmpAVaVIJ
+  accessKeyId: 
+  accessKeySecret: 
   bucketName: myblogoss2
