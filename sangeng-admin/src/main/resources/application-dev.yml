@@ -33,7 +33,7 @@ mybatis-plus:
 # 阿里云OSS对象存储
 oss:
   #  配置地域节点Endpoint
-  endpoint: oss-cn-beijing.aliyuncs.com
+  endpoint: #
   accessKeyId: 
   accessKeySecret: 
-  bucketName: myblogoss2
+  bucketName: #
